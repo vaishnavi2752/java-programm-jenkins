@@ -1,2 +1,3 @@
-2026/03/24-12:16:40.783 8e58 Creating DB C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/03/24-12:16:40.795 8e58 Reusing MANIFEST C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/03/24-13:28:28.730 b880 Reusing MANIFEST C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/03/24-13:28:28.732 b880 Recovering log #3
+2026/03/24-13:28:28.732 b880 Reusing old log C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

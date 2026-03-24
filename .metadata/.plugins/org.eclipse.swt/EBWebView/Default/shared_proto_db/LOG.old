@@ -1,2 +1,3 @@
-2026/03/24-12:16:40.833 9a48 Creating DB C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
-2026/03/24-12:16:40.841 9a48 Reusing MANIFEST C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/03/24-13:28:29.193 dad0 Reusing MANIFEST C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/03/24-13:28:29.194 dad0 Recovering log #3
+2026/03/24-13:28:29.194 dad0 Reusing old log C:\Users\Lenovo\Desktop\java programm jenkins\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 
